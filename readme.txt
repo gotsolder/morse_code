@@ -1,1 +1,1 @@
-foo
+Testing fetch
